@@ -1,0 +1,31 @@
+.main {
+    background-color: rgba(125, 24, 51, 0.9);
+    margin: auto;
+    width: 1050px;
+    padding: 10px;
+}
+
+body {
+    background-image: url(img/background.png);
+}
+
+.nagy {
+    width: 300px;
+    border: 7px solid orange;
+    float: left;
+    height: 418px;
+}
+
+.kicsi {
+    width: 220px;
+    border: 7px solid orange;
+    height: 200px;
+}
+
+hr {
+    margin: 0px;
+}
+
+.cím {
+    margin-bottom: 0px;
+}
